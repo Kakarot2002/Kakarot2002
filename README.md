@@ -91,9 +91,11 @@
  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Bust%20In%20Silhouette.webp" alt="Bust In Silhouette" width="25" height="25" /> To connect with me</h2></summary>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="50" alt="linkedin logo" href="https://www.linkedin.com/in/prabhat-gupta-243a721b5" />
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="80" height="50" alt="twitter logo" href = "https://x.com/2002Prabhatgup?t=lIQmvL6tz3cka8BV99qNGA&s=08"  />
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="80" height="50" alt="gmail logo" href="mailto:prabhatgup2002@gmail.com"  />
+  <p>
+    <a href="https://www.linkedin.com/in/prabhat-gupta-243a721b5" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="50" alt="linkedin logo"  /><a href = "https://x.com/2002Prabhatgup?t=lIQmvL6tz3cka8BV99qNGA&s=08"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="80" height="50" alt="twitter logo" /></a><a href="mailto:prabhatgup2002@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="80" height="50" alt="gmail logo"   /></a>
+  </p>
+  
+
 </div>
 
 ###
